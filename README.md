@@ -1,4 +1,4 @@
-# mega_hub75_boardtes
+# mega_hub75_boardtest
 Test code to excercise the hardware on my Mega Hub 75 (take 2) board.
 Outputs Pot and all 3 outputs from the sound board out serial.
 Graphs the audio output on our RGB matrix.
